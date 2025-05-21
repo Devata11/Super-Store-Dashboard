@@ -1,0 +1,2 @@
+# Super-Store-Dashboard
+My first set of projects in data analytics, demonstrating foundational skills in dashboard creation, data visualization, and data cleaning with Tableau and Excel.
