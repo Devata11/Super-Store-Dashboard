@@ -1,6 +1,3 @@
-# Super-Store-Dashboard
-My first set of projects in data analytics demonstrated foundational skills in dashboard creation, data visualization, and data cleaning with PowerBI and Excel.
-
 Superstore Dashboard - Tableau Project
 This repository contains my first practice Tableau dashboard developed using the Sample Superstore dataset. The purpose of this project was to enhance my skills in data visualization and dashboard creation using Tableau. This interactive dashboard offers an insightful analysis of sales, profit, and order metrics across different regions and years.
 
