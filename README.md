@@ -1,29 +1,54 @@
-Superstore Dashboard - Tableau Project
-This repository contains my first practice Tableau dashboard developed using the Sample Superstore dataset. The purpose of this project was to enhance my skills in data visualization and dashboard creation using Tableau. This interactive dashboard offers an insightful analysis of sales, profit, and order metrics across different regions and years.
+# 📊 Superstore Dashboard - Power BI Project
 
-Project Overview
-The Superstore Dashboard provides a dynamic and interactive view of key business metrics. It demonstrates how Tableau can be used to create comprehensive visualizations for performance analysis, allowing users to interact with the data and refine their insights through filters and metric selections.
 
-Dataset Overview
-The Sample Superstore dataset contains transactional data for a fictional retail store, including sales, profit, product categories, and customer demographics. It’s widely used for educational purposes and dashboard demonstrations.
+## 📁 Project Overview
 
-Key Dashboard Features
-Interactive Filters: Filter by Year and Region to refine the analysis.
-Metric Selection: Choose between Sales, Profit, and Number of Orders (# Orders) to dynamically adjust the visualizations.
-Top 5 Products: The dashboard consistently displays the top 5 products based on the selected metric.
-KPI Cards: Displays key performance indicators such as Profit Margin and Return Rate.
-Filter Actions: Clicking on a category in the Category chart dynamically updates the other charts and KPIs.
-Company Logo Interaction: Clicking on the logo redirects users to the published dashboard on Tableau Public.
-Trend and Average Lines: Included for relevant visualizations to track performance over time.
-How to Use the Dashboard
-Select a Metric (Sales, Profit, or Orders) to update the visualizations and KPI cards.
-Apply Filters for Year and Region to refine the analysis.
-Click on a Category to filter the other charts and KPIs based on that selection.
-Hide/Show Filters using the toggle button to optimize the view.
-Click on the Company Logo to access the dashboard published on Tableau Public.
-Screenshot 2024-10-10 203646
+This project showcases a **Superstore Dashboard** built in Power BI using a fictional dataset (Sample Superstore). The dashboard provides interactive visualizations for analyzing key financial metrics such as **Total Sales**, **Total Profit**, **COGS**, and **Units Sold**, along with insights segmented by **country**, **product**, and **time**.
 
-Files in the Repository
-Superstore_Dashboard.twbx: The Tableau packaged workbook containing the dashboard.
-Superstore_Sample_Data.xls: The dataset used for the dashboard.
-Dashboard_Documentation.docx: Detailed documentation explaining the development of the dashboard and its features.
+The goal of this project is to demonstrate proficiency in data visualization, storytelling with data, and the use of Power BI for building business intelligence tools.
+
+---
+
+![Dashboard Screenshot](./Screenshot%20(90).png)
+
+---
+## 📌 Key Features
+
+- **KPI Cards**: Summarized metrics for Total Profit, Sales, COGS, and Units Sold.
+- **Interactive Filters**: Slice the data by Year, Country, and Product.
+- **Sales by Country & Segment**: A donut chart showing balanced contributions from various segments.
+- **Sales Trend Line**: Year-over-year and quarter-over-quarter trend analysis.
+- **Top 5 Profit by Country**: Horizontal bar chart showing countries with highest profit.
+- **Top 5 Sales by Product**: Best-selling products based on total sales.
+
+---
+
+## 📂 Files Included
+
+- `Superstore_Dashboard.twbx` – Tableau packaged workbook containing the dashboard.
+- `Superstore_Sample_Data.xls` – Raw dataset used in the dashboard (Sample Superstore).
+- `Screenshot (90).png` – Preview of the Tableau dashboard.
+- `Dashboard_Documentation.docx` – Optional (not included here): Project documentation (you can add your own notes, development process, or findings).
+
+
+---
+
+## 📈 Insights & Analysis
+
+- **Total Sales**: $118.73M | **Total Profit**: $16.89M
+- **Most Profitable Country**: France ($3.78M)
+- **Top Product by Sales**: Paseo ($33M)
+- **Growth Trend**: Sales increased from $4M (Q3 2013) to $30M (Q4 2014)
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Power BI Data Visualization
+- Dashboard Design & Interactivity
+- KPI Monitoring
+- Time-Series Analysis
+- Segmentation & Drill-Down
+
+
+
