@@ -8,6 +8,10 @@ This project presents a visually interactive **Finance Dashboard** created in **
 
 ![Finance Dashboard](./Screenshot%20(90).png)
 
+
+![Finance Dashboard](./assets/finance_dashboard.png)
+
+
 ---
 
 ## 📁 About the Project
