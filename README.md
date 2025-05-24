@@ -1,54 +1,63 @@
-# 📊 Superstore Dashboard - Power BI Project
+# 📊 Finance Dashboard - Tableau Project
 
-
-## 📁 Project Overview
-
-This project showcases a **Superstore Dashboard** built in Power BI using a fictional dataset (Sample Superstore). The dashboard provides interactive visualizations for analyzing key financial metrics such as **Total Sales**, **Total Profit**, **COGS**, and **Units Sold**, along with insights segmented by **country**, **product**, and **time**.
-
-The goal of this project is to demonstrate proficiency in data visualization, storytelling with data, and the use of Power BI for building business intelligence tools.
+This project presents a visually interactive **Finance Dashboard** created in **Tableau**, utilizing the popular **Sample Superstore dataset**. The dashboard delivers key financial metrics with insightful charts and user controls for filtering by **Year**, **Country**, and **Product**.
 
 ---
 
-![Dashboard Screenshot](./Screenshot%20(90).png)
+## 🖼️ Dashboard Preview
 
----
-## 📌 Key Features
-
-- **KPI Cards**: Summarized metrics for Total Profit, Sales, COGS, and Units Sold.
-- **Interactive Filters**: Slice the data by Year, Country, and Product.
-- **Sales by Country & Segment**: A donut chart showing balanced contributions from various segments.
-- **Sales Trend Line**: Year-over-year and quarter-over-quarter trend analysis.
-- **Top 5 Profit by Country**: Horizontal bar chart showing countries with highest profit.
-- **Top 5 Sales by Product**: Best-selling products based on total sales.
+![Finance Dashboard](./Screenshot%20(90).png)
 
 ---
 
-## 📂 Files Included
+## 📁 About the Project
 
-- `Superstore_Dashboard.twbx` – Tableau packaged workbook containing the dashboard.
-- `Superstore_Sample_Data.xls` – Raw dataset used in the dashboard (Sample Superstore).
-- `Screenshot (90).png` – Preview of the Tableau dashboard.
-- `Dashboard_Documentation.docx` – Optional (not included here): Project documentation (you can add your own notes, development process, or findings).
+The dashboard provides real-time insights into business performance across multiple dimensions, including:
 
+- **Total Sales**
+- **Total Profit**
+- **Cost of Goods Sold (COGS)**
+- **Total Units Sold**
 
----
-
-## 📈 Insights & Analysis
-
-- **Total Sales**: $118.73M | **Total Profit**: $16.89M
-- **Most Profitable Country**: France ($3.78M)
-- **Top Product by Sales**: Paseo ($33M)
-- **Growth Trend**: Sales increased from $4M (Q3 2013) to $30M (Q4 2014)
+Users can explore trends using filters, donut charts, bar graphs, and line charts.
 
 ---
 
-## 🎯 Skills Demonstrated
+## 📊 Dashboard Features
 
-- Power BI Data Visualization
-- Dashboard Design & Interactivity
-- KPI Monitoring
-- Time-Series Analysis
-- Segmentation & Drill-Down
+- 📌 KPI Cards for **Sales**, **Profit**, **COGS**, and **Units Sold**
+- 📅 Quarterly trend line chart for sales
+- 📍 Country-wise sales and profit analysis
+- 📊 Top 5 Products and Top 5 Profitable Countries
+- 🔘 Interactive toggle between **Sales** and **Profit**
+- 🎯 Filters by **Year**, **Country**, and **Product**
+- 📈 Donut chart of **Sales by Country and Segment**
 
+---
 
+## 📦 Files in This Repository
 
+- `Finance_Dashboard.twbx` – Tableau workbook file
+- `Screenshot (90).png` – Image of the dashboard
+- `Sample_Superstore.xlsx` – Dataset used
+- `README.md` – Project documentation
+
+---
+
+## 🔍 Key Metrics from the Dashboard
+
+| Metric              | Value     |
+|---------------------|-----------|
+| **Total Profit**     | \$16.89M  |
+| **Total Sales**      | \$118.73M |
+| **Total COGS**       | \$101.83M |
+| **Total Units Sold** | 1.13M     |
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository.
+2. Open `Finance_Dashboard.twbx` using **Tableau Desktop** or **Tableau Public Desktop**.
+3. Use the dashboard filters (Year, Country, Product) to analyze specific dimensions.
+4. Toggle between **Sales** and **Profit** views using the custom buttons.
