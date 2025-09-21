@@ -36,8 +36,7 @@ The dashboards were developed to answer critical business questions and track pe
 ---
 ## 🖼️ Dashboard Preview
 
-<img width="1763" height="848" alt="<img width="1215" height="680" alt="Assignment" src="https://github.com/user-attachments/assets/d5ef341c-3d5e-4b98-9ca9-8c9c11709f78" />
-" src="https://github.com/user-attachments/assets/877cb871-35df-42b5-adf3-4c802eb6e4a0" />
+<img width="1215" height="680" alt="Assignment" src="https://github.com/user-attachments/assets/d5ef341c-3d5e-4b98-9ca9-8c9c11709f78" />
 
 ---
 
